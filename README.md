@@ -1,27 +1,16 @@
 <div align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 
-<h1 style="font-size: 2.5em; color: #e6e6e6; margin: 10px 0; border: none; padding-bottom: 0;">
-   Programação Orientada a Objetos
-</h1>
+# Programação Orientada a Objetos
 
-<h3 style="color: #a8b2d1; font-weight: 400; margin: 0; padding-top: 0; border: none;">
-  PhD. Julles Mitoura
-</h3>
+### PhD. Julles Mitoura
 
-<p style="margin: 10px 0;">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/POO-4A90E2?style=for-the-badge&logoColor=white" alt="POO"/>
 </p>
-
-<img width="80%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-</div>
 
 </div>
 
