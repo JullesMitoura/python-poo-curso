@@ -64,16 +64,20 @@ Aprofundamento nos elementos fundamentais de classes em Python. Esta aula cobre:
 
 ---
 
-### **Aula 03: Encapsulamento e Modificadores**
+### **Aula 03: Métodos e Atributos de Classe**
 
-**Arquivo:** `poo_aula03_encapsulamento_modificadores.ipynb`
+**Arquivo:** `poo_aula03_metodo_atributo_de_classe.ipynb`
 
-Conceitos de encapsulamento e controle de acesso em Python. Esta aula explora:
-- Encapsulamento de dados e métodos
-- Modificadores de acesso (público, privado, protegido)
-- Convenções de nomenclatura em Python (`_` e `__`)
-- Propriedades (`@property`) e métodos getter/setter
-- Proteção de dados e controle de acesso aos atributos
+Diferenças entre métodos e atributos de instância versus de classe. Esta aula aborda:
+- Métodos de instância vs métodos de classe
+- O conceito de `cls` como referência à classe (análogo ao `self` para instâncias)
+- Atributos de classe e como são compartilhados entre instâncias
+- Decorador `@classmethod` para criar métodos de classe
+- Diferenças entre atributos de instância e atributos de classe
+- Métodos alternativos de construção usando métodos de classe
+- Uso prático de atributos e métodos de classe em cenários reais
+
+**Exemplo prático:** Classes `Pessoa`, `Carro`, `Produto`, `Contador` e `Estudante` demonstrando atributos e métodos de classe.
 
 ---
 
@@ -118,6 +122,19 @@ Projeto prático integrando todos os conceitos aprendidos. Esta aula envolve:
 
 ---
 
+### **Exercícios Práticos**
+
+**Arquivo:** `exercicios_aulas_01_02_03.md`
+
+Lista completa de exercícios práticos cobrindo os tópicos das três primeiras aulas:
+- **Aula 01:** Exercícios sobre criação de classes, objetos e atributos básicos
+- **Aula 02:** Exercícios sobre métodos, construtores e manipulação de estado
+- **Aula 03:** Exercícios sobre atributos e métodos de classe
+
+O arquivo contém 15 exercícios progressivos com respostas completas em formato de código Python, permitindo prática e consolidação dos conceitos aprendidos.
+
+---
+
 ### **Tecnologias Utilizadas**
 
 - **Python** - Linguagem de programação
@@ -125,4 +142,4 @@ Projeto prático integrando todos os conceitos aprendidos. Esta aula envolve:
 
 ### **Estrutura do Curso**
 
-O curso é estruturado em 6 aulas progressivas, onde cada aula constrói sobre os conceitos apresentados nas anteriores, proporcionando uma aprendizagem gradual e sólida dos princípios da Programação Orientada a Objetos.
+O curso é estruturado em aulas progressivas, onde cada aula constrói sobre os conceitos apresentados nas anteriores, proporcionando uma aprendizagem gradual e sólida dos princípios da Programação Orientada a Objetos. Os exercícios práticos complementam o aprendizado teórico, oferecendo oportunidades para aplicar e reforçar os conceitos estudados.
