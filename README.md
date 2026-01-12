@@ -1,18 +1,17 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-
-# Programação Orientada a Objetos
-
-### PhD. Julles Mitoura
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/POO-4A90E2?style=for-the-badge&logoColor=white" alt="POO"/>
-</p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
 </div>
+
+<h1 align="center">Programação Orientada a Objetos</h1>
+
+<h3 align="center">PhD. Julles Mitoura</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POO-4A90E2?style=for-the-badge"/>
+</div>
+
 
 Este curso apresenta os conceitos fundamentais da Programação Orientada a Objetos (POO) utilizando Python, com exemplos práticos e exercícios progressivos.
 
