@@ -1,0 +1,33 @@
+{
+  "itens": [
+    {
+      "tipo": "Livro",
+      "id": 9,
+      "titulo": "Dom Casmurro",
+      "ano": 1899,
+      "paginas": 256,
+      "autores": [
+        "Machado de Assis"
+      ]
+    },
+    {
+      "tipo": "Revista",
+      "id": 10,
+      "titulo": "Ciência Hoje",
+      "ano": 2024,
+      "edicao": 321
+    }
+  ],
+  "usuarios": [
+    {
+      "tipo": "Aluno",
+      "id": 5,
+      "nome": "Ana"
+    },
+    {
+      "tipo": "Professor",
+      "id": 6,
+      "nome": "Bruno"
+    }
+  ]
+}
